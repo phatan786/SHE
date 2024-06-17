@@ -1,9 +1,11 @@
 #!/bin/bash
 
-date=$(date +%F)
+a=10
+b=20
 
 
-echo "today date is $date"
+
+echo "today date is $((a+b))"
 
 
 
