@@ -3,4 +3,4 @@
 echo " hi my name is vasim"
 echo  -e "hi\nmorning"
 
-echo -e "\e[31m;hi my name is vasim"
+echo -e "\e[32mhi my name is vasim"
