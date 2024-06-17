@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo " hi my name is vasim"
-echo  -e "hi\tmorning"
+echo  -e "hi\t\t:morning"
